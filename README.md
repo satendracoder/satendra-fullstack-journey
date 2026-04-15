@@ -64,7 +64,7 @@ I'm improving my Java and problem-solving skills by practicing daily.
 
 ## 📌 Connect with Me
 
-* LinkedIn: [(Add your link)](https://www.linkedin.com/in/satendracoder/)
-* Portfolio:[ (Add your site)](http://satendracoder.com/)
+* LinkedIn: (https://www.linkedin.com/in/satendracoder/)
+* Portfolio:(http://satendracoder.com/)
 
 ---
